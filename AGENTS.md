@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep the book-sales experience on the home route and direct purchase actions to the supplied Selar checkout, so readers can choose a payment method there.
